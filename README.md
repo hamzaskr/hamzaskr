@@ -8,6 +8,7 @@ I'm a Computer Science student who tends to turn everyday inconveniences into si
 
 - 🏸 **[Badminton Tournament Manager](https://hamzaskr.github.io/BadmintonTournamentApp/)** — A browser-based tool for running family badminton tournaments. Tracks players and results, supports round-robin, Swiss, and seeded knockout formats, and helps avoid repeat matchups.
 - 📊 **[EduStats](https://hamzaskr.github.io/EduStats/)** — A marks-analysis tool that turns classroom results into useful statistics, including averages, medians, quartiles, IQR, and distributions, with report generation for teachers.
+- 🧭 **[Type a Wish](https://hamzaskr.github.io/type-a-wish/)** — A personal atlas for the life you're still building. Capture your wishes, turn aspirations into plans, and preserve the memories that make the journey worth remembering.
 
 ## What I'm Exploring
 
