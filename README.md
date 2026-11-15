@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hamza
+# Hi 👋, I'm [Hamza](https://hamzaskr.github.io/MH-Personal-Portfolio/)
 
 **I build things that keep their promises.**
 
